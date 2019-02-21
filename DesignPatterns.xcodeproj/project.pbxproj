@@ -14,6 +14,7 @@
 		4BB4860B1D8EC90A00C1E3FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BB486091D8EC90A00C1E3FB /* LaunchScreen.storyboard */; };
 		4BB486161D8EC90A00C1E3FB /* DesignPatternsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB486151D8EC90A00C1E3FB /* DesignPatternsTests.swift */; };
 		4BB486211D8EC90A00C1E3FB /* DesignPatternsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB486201D8EC90A00C1E3FB /* DesignPatternsUITests.swift */; };
+		4BB4862F1D8EC95C00C1E3FB /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BB4862E1D8EC95C00C1E3FB /* Preferences.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4BB4861C1D8EC90A00C1E3FB /* DesignPatternsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesignPatternsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BB486201D8EC90A00C1E3FB /* DesignPatternsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignPatternsUITests.swift; sourceTree = "<group>"; };
 		4BB486221D8EC90A00C1E3FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BB4862E1D8EC95C00C1E3FB /* Preferences.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Preferences.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				4BB486071D8EC90A00C1E3FB /* Assets.xcassets */,
 				4BB486091D8EC90A00C1E3FB /* LaunchScreen.storyboard */,
 				4BB4860C1D8EC90A00C1E3FB /* Info.plist */,
+				4BB4862E1D8EC95C00C1E3FB /* Preferences.swift */,
 			);
 			path = DesignPatterns;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				4BB486031D8EC90A00C1E3FB /* ViewController.swift in Sources */,
 				4BB486011D8EC90A00C1E3FB /* AppDelegate.swift in Sources */,
+				4BB4862F1D8EC95C00C1E3FB /* Preferences.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
